@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-container{
+    width: 800px;
+    margin: 0%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-item{
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: rgb(209, 31, 31);
+    margin: 20px;
+}
